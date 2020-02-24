@@ -2,6 +2,8 @@
 
 Datadog middleware for Connect JS / Express
 
+> # Deprecated
+>  **node-connect-datadog is no longer actively maintained, to generate metrics for Connect and Express please see [Datadog APM](https://docs.datadoghq.com/tracing/)**
 
 ## Usage
 
